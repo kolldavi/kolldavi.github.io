@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: modaals_devMatch
+modal-id: 1
 date: 2014-07-18
 img: devMatch.png
 alt: image-alt

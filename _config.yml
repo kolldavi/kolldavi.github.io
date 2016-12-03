@@ -1,9 +1,9 @@
 # Site settings
-title: Freelancer
+title: David Koller
 email: kolldavi@gmail.com
 url: https://kolldavi.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Web Developer - Application Developer- User Experience Designer"
 meta_author: Koller David
 
 # Google webmaster tools
@@ -43,9 +43,7 @@ social:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/users/story/6823639
   - title: github
     url: http://github.com/kolldavi
 
