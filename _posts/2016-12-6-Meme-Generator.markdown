@@ -9,5 +9,5 @@ client: Personal Project
 client-link: https://github.com/kolldavi/Web-Development/tree/master/memeGenerator
 service-link: https://github.com/kolldavi/Web-Development
 category: Web Development
-description: This project uses jQuery to load images and change the text to create memes
+description: This project uses jQuery to load images and change the text to create memes it can be viewed at <a href ="http://176.32.230.9/davidkollerpracticewebsite.com/Projects/memeGenerator/index.html"> Here</a>
 ---
