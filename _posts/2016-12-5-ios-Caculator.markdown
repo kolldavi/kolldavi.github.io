@@ -9,6 +9,6 @@ client: Personal Project
 client-link: https://github.com/kolldavi/iosPlayground/tree/master/Caculator
 service-link: https://github.com/kolldavi/iosPlayground
 category: IOS Development
-description: This is a Simple Caculator App
+description: This is a ios Caculator App
 
 ---
