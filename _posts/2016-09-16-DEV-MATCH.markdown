@@ -5,7 +5,7 @@ date: 2016-09-16
 img: devMatch.png
 alt: image-alt
 project-date: July 2016
-client: Personal Project
+client: GitHub Link
 client-link: https://github.com/kolldavi/simplecodecasts_saas
 service-link: https://github.com/kolldavi/simplecodecasts_saas
 category: Web Development

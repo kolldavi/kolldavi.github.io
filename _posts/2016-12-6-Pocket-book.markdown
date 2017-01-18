@@ -5,7 +5,7 @@ date: 2016-12-06
 img: ScreenShotPocketbook.png
 alt: image-alt
 project-date: Dec 2016
-client: Personal Project
+client: GitHub Link
 client-link: https://github.com/kolldavi/Web-Development/tree/master/Pocketbook
 service-link: https://github.com/kolldavi/Web-Development
 category: Web Development

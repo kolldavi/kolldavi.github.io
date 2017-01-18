@@ -5,7 +5,7 @@ date: 2016-12-06
 img: ScreenShotListEasy.png
 alt: image-alt
 project-date: Dec 2016
-client: Personal Project
+client: GitHub Link
 client-link: https://github.com/kolldavi/Web-Development/tree/master/ListEasy
 service-link: https://github.com/kolldavi/Web-Development
 category: Web Development
