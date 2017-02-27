@@ -34,7 +34,6 @@ footer:
   copyright: David Koller
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -46,6 +45,9 @@ social:
     url: http://github.com/kolldavi
   - title: linkedin
     url: https://www.linkedin.com/in/david-koller-58034812a?trk=hp-identity-name
+  - title: flickr
+    url: http://codepen.io/kolldavi/
+
 
 # Postal address (add as many lines as necessary)
 address:
@@ -54,8 +56,6 @@ address:
   - line: (708) 717-9049
 
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
