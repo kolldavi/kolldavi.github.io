@@ -2,12 +2,12 @@
 layout: default
 modal-id: 6
 date: 2016-12-06
-img: ScreenShotMemeGenerator.png
+img: ScreenShotSimon.png
 alt: image-alt
-project-date: Dec 2016
+project-date: April 2017
 client: GitHub Link
 client-link: https://github.com/kolldavi/Web-Development/tree/master/memeGenerator
 service-link: https://github.com/kolldavi/Web-Development
 category: Web Development
-description: This project uses jQuery to load images and change the text to create memes it can be viewed at <a href ="http://www.dkoller.com/Web-Development/memeGenerator/index.html"> Here</a>
+description: This is a freecodecamp project that lets the user play simon says. It uses html css javascipt/jQuery. It can be played <a href ="http://www.dkoller.com/Web-Development/Simon-Game/"> Here</a>
 ---
