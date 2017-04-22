@@ -41,10 +41,8 @@ social:
     url: http://twitter.com/d_koller
   - title: github
     url: http://github.com/kolldavi
-  - title: flickr
+  - title: codepen
     url: http://codepen.io/kolldavi/
-
-
 # Postal address (add as many lines as necessary)
 address:
   - line: 9520 Mayfield
