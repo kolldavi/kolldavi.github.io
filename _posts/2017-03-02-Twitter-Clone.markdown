@@ -4,7 +4,7 @@ modal-id: 8
 date: 2017-2-27
 img: ScreenShotTwitterClone.png
 alt: image-alt
-project-date: Feb 2017
+project-date: Mar 2017
 client: github-Link
 client-link: https://github.com/kolldavi/Web-Development/tree/master/TwitterClone/
 service-link: https://github.com/kolldavi/Web-Development
