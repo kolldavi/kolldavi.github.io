@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2017-2-17
 img: minicourseajaxprojectScreenShot.png
 alt: image-alt
