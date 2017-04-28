@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-12-06
-img: quoteGeneratorScreenShot.png
+img: quoteGeneratorScreenShot.jpg
 alt: image-alt
 project-date: Jan 2017
 client: GitHub Link

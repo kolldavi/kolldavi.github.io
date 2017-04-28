@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2016-11-16
-img: ScreenShotMemeGenerator1.png
+img: ScreenShotMemeGenerator1.jpg
 alt: image-alt
 project-date: Nov 2016
 client: GitHub Link

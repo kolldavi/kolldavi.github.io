@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2017-2-17
-img: minicourseajaxprojectScreenShot.png
+img: minicourseajaxprojectScreenShot.jpg
 alt: image-alt
 project-date: Feb 2017
 client: github-Link

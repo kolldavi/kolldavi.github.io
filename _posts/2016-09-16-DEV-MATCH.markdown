@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-09-16
-img: devMatch.png
+img: devMatch.jpg
 alt: image-alt
 project-date: July 2016
 client: GitHub Link
@@ -10,5 +10,4 @@ client-link: https://github.com/kolldavi/simplecodecasts_saas
 service-link: https://github.com/kolldavi/simplecodecasts_saas
 category: Web Development
 description: This is a Rails application called <a href="https://rocky-stream-15179.herokuapp.com/">Dev-Match</a> and is hosted live on Heroku servers. The app supports ecommerce functionality where users can sign up for free or pay a monthly fee and automatically get billed via recurring charges. I also integrated the Sendgrid API to give the application the ability to send out email notifications.
-
 ---

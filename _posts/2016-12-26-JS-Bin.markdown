@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-12-07
-img: ScreenShotJsBinClone.png
+img: ScreenShotJsBinClone.jpg
 alt: image-alt
 project-date: Dec 2016
 client: GitHub Link

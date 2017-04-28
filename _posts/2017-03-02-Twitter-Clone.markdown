@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2017-2-27
-img: ScreenShotTwitterClone.png
+img: ScreenShotTwitterClone.jpg
 alt: image-alt
 project-date: Mar 2017
 client: github-Link
