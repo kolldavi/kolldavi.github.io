@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-12-06
-img: ScreenShotSimon.jpg
+img: ScreenShotSimon.png
 alt: image-alt
 project-date: April 2017
 client: GitHub Link
