@@ -9,5 +9,5 @@ client: GitHub Link
 client-link: https://github.com/kolldavi/my-reads
 service-link: https://github.com/kolldavi/my-reads
 category: Web Development
-description:  This project for Udacity's React nanodegree is a react application that communicates with a Backend Server and allows the user to search through Book objects as well as add them to a specific personal shelf (Currently Reading, Want To Read and Read). It can be viewed <a href ="https://my-reads-udacity-nano-degree.herokuapp.com/"> Here</a>
+description: This project for Udacity's React nanodegree is a react application that communicates with a Backend Server and allows the user to search through Book objects as well as add them to a specific personal shelf (Currently Reading, Want To Read and Read). It can be viewed <a href ="https://my-reads-udacity-nano-degree.herokuapp.com/"> Here</a> (may take a few seconds to load because it is hosted on heroku)
 ---
