@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2019-1-5
-img: drumMachine.jpg
+img: drumMachine.png
 alt: image-alt
 project-date: Jan 2019
 client: GitHub Link
