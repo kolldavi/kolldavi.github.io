@@ -9,5 +9,5 @@ client: GitHub Link
 client-link: https://github.com/kolldavi/javascript-games/tree/master/Simon-Game
 service-link: https://github.com/kolldavi/javascript-games
 category: Web Development
-description: This is a freecodecamp project that lets the user play simon says. It uses html css javascipt/jQuery. It can be played <a href ="http://www.dkoller.com/javascript-games/Simon-Game/"> Here</a>
+description: This is a freecodecamp project that lets the user play simon says. It uses html css javascipt/jQuery. It can be played <a href ="https://kolldavi.github.io/javascript-games/Simon-Game/"> Here</a>
 ---
